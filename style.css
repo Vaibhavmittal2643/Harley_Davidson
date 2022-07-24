@@ -1,0 +1,162 @@
+#maindiv{
+    margin-top: 0px;
+}
+body{
+    margin-top:-19px;
+    overflow: auto;
+}
+#topbar{
+    width: 100%;
+    margin-top: 0px;
+}
+#top{
+    display: inline;
+    text-decoration: none;
+    font-size: 16px;
+    
+}
+#topbar ul{
+    background-color: black;
+    color: white;
+    padding: 10px 0px;
+    float: right;
+    width: 100%;
+    padding-right:20px;
+}
+#topbar ul li a{
+    text-decoration:none ;
+    color: white;
+    font-size: 15px;
+    float: right;
+    margin-right: 15px;
+    font-family:"NotoSans-Bold","sans-serif";
+}
+#topbar ul li a:hover{
+    text-decoration: underline;
+}
+#topbar ul li:hover{
+    text-decoration: underline;
+}
+#topbar1{
+    float: left;
+    margin-left:  1100px;
+    
+}
+#topbar2{
+    float: left;
+}
+#topbar3{
+    float: left;
+}
+#topbar3 img{
+    width: 17px;
+    height: 17px;
+}
+#topbar4{
+    float: left;
+    margin-left:30px ;
+    font-size: 18px;
+    font-family:"NotoSans-Bold","sans-serif";
+}
+.menu{
+    list-style: none;
+    background-color: white;
+    float:left;
+    width: 65%;
+}
+.link{
+    display:inline;
+    font-family:"Impact","Gill Sans","Haettenschweiler";
+    font-size: 22px;
+}
+.menu li a:hover{
+    color: white;
+    background-color: black;
+    
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    margin-right: 0px;
+    letter-spacing: 1px;
+    font-weight:normal;
+    padding-top:  70px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#div2 img{
+    width:100px;
+    height:90px;
+    margin-top: -16px;
+    margin-left: 100px;
+}
+#divimg{
+    float: left;
+}
+#innerdiv{
+    display: inline;
+}
+#div3 img{
+    width:100%;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.menu2{
+    margin-top: -18px;
+    list-style: none;
+    background-color: #eeeceb;
+    width: 100%;
+    float:left;
+    padding: 12px;
+    width: 100%;
+    padding-top:45px;
+    height: 70px;
+    text-align:center;
+    margin-left: -34px;
+   
+}
+.menu2 li a{
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+    margin-right: 15px;
+    font-family:"Impact","Haettenschweiler";
+    min-height: 64px;
+    padding-right: 40px;
+    border-right: 1px solid black;
+    letter-spacing: 0.5px;
+}
+.menu2 li{
+    display:inline;
+    font-size:30px;
+}
+#border{
+    border: none;
+}
+.menu2 li a:hover{
+    color: #fa6600;
+}
+#fa fa-search:hover{
+    color: #fa6600;
+}
+input{
+    border: none;
+    width: 120px;
+    height: 26px;
+}
+#searchbar{
+    border: 1px solid black;
+    margin-top: 20px;
+    height: 30px;
+    width: 150px;
+    float: left;
+}
+#bar2{
+    float: left;
+    color: black;
+    font-family:"Impact","Gill Sans","Haettenschweiler";
+    margin-top: 25px;
+    font-size: 22px;
+    margin-left:50px ;
+}
